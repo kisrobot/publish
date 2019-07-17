@@ -4,8 +4,8 @@ import (
 	"testing"
 
 	"github.com/jinzhu/gorm"
-	"github.com/qor/l10n"
-	"github.com/qor/publish"
+	"github.com/kisrobot/l10n"
+	"github.com/kisrobot/publish"
 )
 
 type Book struct {

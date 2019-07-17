@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/qor/admin"
-	"github.com/qor/qor"
-	"github.com/qor/roles"
-	"github.com/qor/worker"
+	"github.com/kisrobot/admin"
+	"github.com/kisrobot/qor"
+	"github.com/kisrobot/roles"
+	"github.com/kisrobot/worker"
 )
 
 type workerJobLogger struct {
